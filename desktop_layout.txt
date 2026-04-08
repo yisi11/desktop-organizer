@@ -1,0 +1,67 @@
+Recycle Bin|16|2
+Anki|1039|2
+YomiNinja|16|1026
+nihongo|1132|2
+Notepad++|667|2
+Obsidian|760|2
+TeXstudio|853|2
+VMware Workstation Pro|1504|2
+Visual Studio Code|1597|2
+JupyterLab|1690|2
+Big Data, No SQL|1318|386
+Java Enterprise Application|1504|386
+SemesterprojectsFFHS|1039|386
+2024HS|2434|130
+2025FS|2434|2
+Firefox|16|130
+Google Chrome|109|130
+Brave|202|130
+IntelliJ IDEA 2024.2.1|1411|2
+SmowlCM|2062|2
+WebStorm 2024.2.1|1318|2
+Informationssicherheit|1132|386
+Software Engineering Architecture|1225|386
+Transferarbeit|1411|386
+2025HS|2341|2
+Java Project level|1597|386
+Proton Authenticator|16|386
+Proton Pass|295|386
+Proton Drive|388|386
+Proton VPN|202|386
+Proton Mail|109|386
+Endfield|16|1282
+WUWA mods|202|1154
+LeetCode|109|1282
+Bitwarden|295|898
+Magpie|295|1154
+YisamNotes|481|1282
+HDDLock|388|1282
+MHWilds Save Files|388|1154
+Tor Browser|295|130
+Patreon|481|1154
+New folder (2)|202|1282
+mods|295|1282
+Citra ROM|109|1154
+Ryujinx ROM|16|1154
+Dashboard|16|898
+Heaven Benchmark 4.0|202|898
+SteelSeries GG|202|1026
+Malwarebytes|202|770
+DisplayWidget Center|481|770
+Stremio|481|898
+Logitech G HUB|388|1026
+MonsGeek Driver|388|898
+osu!(lazer)|481|1026
+Akko Cloud Driver v4|388|770
+Workout|2434|1154
+BTC DCA RULE|2341|1154
+Vanguard|109|770
+OBS Studio|109|1026
+MSI Afterburner|109|898
+Discord|16|770
+CPUID CPU-Z MSI|295|1026
+FanControl|295|770
+Steuer|2434|1282
+US Tax|2341|1282
+GesuchZivilschutz|2248|1282
+desktop organizer|2248|1154
